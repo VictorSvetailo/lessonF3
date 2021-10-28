@@ -1,0 +1,84 @@
+body {
+	background-color: #c4d7ff;
+}
+
+h1 {
+	color: #800080;
+	font-size: 40px;
+	text-align: center;
+	text-shadow: 3px 3px 2px pink;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	color: blue;
+}
+
+.watched {
+	text-decoration: line-through;
+	color: grey;
+}
+
+.first {
+	font-size: 20px;
+	color: #800080;
+	text-align: center;
+}
+
+.second {
+	text-decoration: underline;
+	text-align: right;
+}
+
+.title{
+	color:gold;
+	text-align: right;
+}
+
+.one {
+	text-decoration: underline;
+	color: crimson;
+	text-shadow: 1px 1px 3px #ff006a;
+	font-size: 20px;
+}
+
+.two {
+	color: orange;
+	text-decoration: line-through;
+	font-size: 25px;
+}
+
+.three {
+	color: yellow;
+	text-shadow: 1px 1px 3px #eeff00;
+	font-size: 30px;
+}
+
+.four {
+	color: green;
+	text-decoration: overline;
+	font-size: 40px;
+}
+
+.five {
+	color: lightskyblue;
+	text-decoration: underline;
+	text-shadow: -10px -5px 0px #006eff;
+	font-size: 30px;
+}
+
+.six {
+	color: blue;
+	text-decoration: line-through;
+	font-size: 25px;
+}
+
+.seven {
+	color: purple;
+	text-decoration: underline;
+	text-shadow: 10px 10px 0px #53e400;
+	font-size: 20px;
+}
